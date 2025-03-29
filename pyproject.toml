@@ -1,0 +1,12 @@
+[project]
+name = "museu-teatro-recife-2023"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "geopandas>=1.0.1",
+    "matplotlib>=3.10.1",
+    "pandas>=2.2.3",
+    "pyarrow>=10.0.1",
+]
